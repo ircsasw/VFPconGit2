@@ -1,0 +1,104 @@
+# Contine la lista de los archivos y carpetas a ignorar
+# Ignorar proyecto
+*.pjx
+*.PJX
+*.pjt
+*.PJT
+
+# Ignorar todos los programas compilados, fomularios, menues y clases
+*.scx
+*.sct
+*.SCX
+*.SCT
+*.mnt
+*.MNT
+*.mnx
+*.MNX
+*.mpr
+*.MPR
+*.vct
+*.VCT
+*.vcx
+*.VCX
+*.fxp
+*.FXP
+
+# Ignorar bases de datos, tablas, indices
+*.dbf
+*.DBF
+*.cdx
+*.CDX
+*.dbc
+*.DBC
+*.dct
+*.DCT
+*.fpt
+*.FPT
+*.dcx
+*.DCX
+*.irt
+*.IRT
+*.tbk
+*.TBK
+
+# Ignorar reportes
+*.frx
+*.FRX
+*.frt
+*.FRT
+
+# Ignorar archivos temporales
+*.bak
+*.BAK
+
+# Todo el contenido de las carptetas
+/Temp
+
+# Varios
+*.exe
+
+# List of VFP no-merge file extensions for 
+# Visual Studio Team Foundation Server Source Control
+*.app
+*.cdx
+*.chm
+*.cur
+*.dbc
+*.dbf
+*.dbg
+*.dct
+*.dcx
+*.fky
+*.fll
+*.fmt
+*.fpt
+*.fra
+*.frt
+*.frx
+*.fxp
+*.hlp
+*.idx
+*.lbt
+*.lbx
+*.lst
+*.mem
+*.mna
+*.mnt
+*.mnx
+*.mpr
+*.mpx
+*.pjt
+*.pjx
+*.qpr
+*.qpx
+*.sca
+*.sct
+*.scx
+*.spr
+*.spx
+*.tbk
+*.vca
+*.vct
+*.vcx
+*.vue
+*.win
